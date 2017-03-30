@@ -1,3 +1,3 @@
 # jenkins-ci-target
 
-test 23
+test 24
